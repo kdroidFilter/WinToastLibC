@@ -106,3 +106,7 @@ CMakeUserPresets.json
 ## Custom
 
 /build
+/build-x64
+/build-arm64
+/cmake-build-minsizerel-visual-studio
+.idea
